@@ -6,7 +6,7 @@ Ich studiere Wirtschaftsinformatik und bin im siebten Semester
 
 ## Meine bisherige Erfahrung mit Softwareentwicklung
 
-...
+Ich habe bereits erste Erfahrungen mit der Programmiersprache Java gesammelt und grundlegende Programmierkonzepte kennengelernt.
 
 ## Das erwarte ich von der Veranstaltung
 
