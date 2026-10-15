@@ -11,3 +11,7 @@ Ich habe bereits erste Erfahrungen mit der Programmiersprache Java gesammelt und
 ## Das erwarte ich von der Veranstaltung
 
 Ich möchte lernen, wie man Git für die Versionsverwaltung nutzt und wie man gemeinsam an Softwareprojekten arbeitet. Außerdem möchte ich die verschiedenen Schritte der Softwareentwicklung besser verstehen.
+
+
+
+Ich freue mich darauf, das Gelernte praktisch anzuwenden.
