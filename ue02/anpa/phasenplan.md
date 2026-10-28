@@ -60,4 +60,4 @@ Kürzel: anpa
 
 Keine Karte markiert.
 
-
+<!-- zuordnung ue02-phasenplan: -->
